@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web:Airplane xmlns:web="http://Web_Lab7_XMLXSD.bsu.by"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://Web_Lab7_XMLXSD.bsu.by AirPlaneModelScheme.xsd">
+	<new_plane>
+	    <name>noname</name>
+		<flightRange>1000</flightRange>
+		<Fuselage>
+			<name>AnyCorp l.t.d.</name>
+			<info>no info</info>
+			<weight>5999</weight>
+			<cost>100000</cost>
+			<type>0</type>
+			<length>100</length>
+			<fuelVolume>20000</fuelVolume>
+			<capacityPass>350</capacityPass>
+			<load>20000</load>
+			<bar>true</bar>
+		</Fuselage>
+		<LandGear>
+			<name>AnyCorp l.t.d.</name>
+			<info>noinfo</info>
+			<weight>1000</weight>
+			<cost>20000</cost>
+		</LandGear>
+		<Avionic>
+			<name>AnyCorp l.t.d.</name>
+			<info>noinfo</info>
+			<weight>500</weight>
+			<cost>90000</cost>
+		</Avionic>
+		<Engine>
+			<name>AnyCorp l.t.d.</name>
+			<info>noinfo</info>
+			<weight>5000</weight>
+			<cost>150000</cost>
+			<type>REACTIVE</type>
+			<power>50000</power>
+		</Engine>
+	</new_plane>
+	<new_plane>
+	    <name>Boeing 1771</name>
+		<flightRange>1000</flightRange>
+		<Fuselage>
+			<name>AnyCorp l.t.d.</name>
+			<info>no info</info>
+			<weight>5999</weight>
+			<cost>100000</cost>
+			<type>0</type>
+			<length>100</length>
+			<fuelVolume>20000</fuelVolume>
+			<capacityPass>350</capacityPass>
+			<load>20000</load>
+			<bar>true</bar>
+		</Fuselage>
+		<LandGear>
+			<name>AnyCorp l.t.d.</name>
+			<info>noinfo</info>
+			<weight>1000</weight>
+			<cost>20000</cost>
+		</LandGear>
+		<Avionic>
+			<name>AnyCorp l.t.d.</name>
+			<info>noinfo</info>
+			<weight>500</weight>
+			<cost>90000</cost>
+		</Avionic>
+		<Engine>
+			<name>AnyCorp l.t.d.</name>
+			<info>noinfo</info>
+			<weight>5000</weight>
+			<cost>150000</cost>
+			<type>REACTIVE</type>
+			<power>50000</power>
+		</Engine>
+	</new_plane>
+</web:Airplane>
